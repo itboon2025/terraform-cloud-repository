@@ -5,7 +5,6 @@ terraform {
 
     workspaces {
       name = "common"
-
     }
   }
 }
